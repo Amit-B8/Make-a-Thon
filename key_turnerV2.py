@@ -69,4 +69,4 @@ shell = shell.cut(screw_holes)
 # --- 6. DISPLAY ---
 show(shell)
 
-cq.exporters.export(shell, "KeyTurner_BottomShell_V3.stl")
+#cq.exporters.export(shell, "KeyTurner_BottomShell_V3.stl")
